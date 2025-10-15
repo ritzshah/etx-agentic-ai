@@ -1,4 +1,4 @@
-= Contributing to ETX Agentic AI Hackathon
+= Contributing to ETX Agentic AI Hackathon - Singapore
 FORK
 This guide provides information on how to contribute to the ETX Agentic AI hackathon project.
 
