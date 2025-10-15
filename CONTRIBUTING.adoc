@@ -1,5 +1,5 @@
-= Contributing to ETX Agentic AI Hackathon - Singapore
-FORK
+= Contributing to ETX Agentic AI Hackathon
+
 This guide provides information on how to contribute to the ETX Agentic AI hackathon project.
 
 The documentation content is built using Antora, a static site generator for creating documentation sites from AsciiDoc documents.
